@@ -1,2 +1,3 @@
 # Cupcakes
-Cupcake recipe
+Cupcake recipe. 
+Learning how to use basic HTML and GitHub.
